@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rabarandy
+- 👀 I’m interested in Gaming
+- 🌱 I’m currently learning Lua
+- 💞️ I’m looking to collaborate on Making games
+- 📫 How to reach me: You dont
